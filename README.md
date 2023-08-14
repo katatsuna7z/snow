@@ -20,4 +20,4 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/katatsuna7z"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="katatsuna7z" /></a></p><br><br>
+<p><a href="https://trakteer.id/katatsuna7z"> <img align="left" src="images/trakteer.png" height="25" width="79" alt="katatsuna7z" /></a></p><br><br>
