@@ -19,5 +19,5 @@
 <a href="https://instagram.com/katatsuna.7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katatsuna.7z" height="20" width="30" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">🎁 Support</h3>
 <p><a href="https://trakteer.id/katatsuna7z"> <img align="left" src="images/trakteer.png" height="25" width="79" alt="katatsuna7z" /></a></p><br><br>
