@@ -12,12 +12,11 @@
 </div>
 
 <br />
-<h3 align="left">Social</h3>
+<h4 align="left">Social</h4>
 <p align="left">
-<a href="https://twitter.com/katatsuna7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katatsuna7z" height="20" width="30" /></a>
-<a href="https://fb.com/katatsuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="katatsuna" height="20" width="30" /></a>
-<a href="https://instagram.com/katatsuna.7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katatsuna.7z" height="20" width="30" /></a>
+<a href="https://twitter.com/katatsuna7z" target="blank"><img align="center" src="images/twitter.svg" alt="katatsuna7z" height="25" width="35" /></a>
+<a href="https://discord.gg/mbzy9jQBzN" target="blank"><img align="center" src="images/discord.svg" alt="discord" height="25" width="35" /></a>
 </p>
 
-<h3 align="left">🎁 Support</h3>
-<p><a href="https://trakteer.id/katatsuna7z"> <img align="left" src="images/trakteer.png" height="25" width="79" alt="katatsuna7z" /></a></p><br><br>
+<h4 align="left">Support</h4>
+<p><a href="https://trakteer.id/katatsuna7z"> <img align="left" src="images/trakteer.png" height="25" width="80" alt="katatsuna7z" /></a></p><br><br>
